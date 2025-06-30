@@ -1,0 +1,120 @@
+.f{
+    font-size: 60px;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+.c{
+    
+    text-align: center;
+   font-family: sans-serif;
+}
+.c1{
+    font-size: 20px;
+    padding-left: 100px;
+   font-family: sans-serif;
+ }
+.uks{
+    display:inline-block;
+    border: none;
+    background-color: white;
+    border-radius: 15px;
+    width: 400px ;
+    
+    padding: 20px;
+    box-shadow: 10px 20px 20px 10px rgb(137, 133, 133);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; 
+}
+.n{
+     width: 180px;
+     height: 30px;
+     padding-left: 10px;
+     
+}
+.na{
+     width: 180px;
+     height: 30px;
+     margin-left: 10px;
+     padding-left: 5px;
+     
+     
+}
+.su{
+    width: 130px;
+    height: 30px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.ve{
+    margin-left: 100px;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+
+}
+.ru{
+    width: 390px;
+    height: 30px;
+    padding:5px
+
+
+}
+.ruv{
+    width: 390px;
+    height: 30px;
+    margin-top: 10px;
+    padding:5px
+
+}
+.vv{
+    margin-left: 117px;
+}
+.dd{
+    border: 1px solid black;
+    
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 2px; 
+    padding-bottom: 10px;
+    font-size: large;
+   /* padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 15px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-bottom: 8px;
+    border-radius: 5px;
+    padding-top: 10px; */
+}
+.d{
+    margin-left: 32px;
+    margin-top: 8px;
+
+
+
+}
+form{
+    display:flex;
+ justify-content:center;
+    align-items: center;}
+    
+body {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    flex-direction: column;   
+    background-color: whitesmoke;
+}
+.name{
+    display:flex;
+    justify-content: space-evenly;
+}
+.gender{
+    display: flex;
+    justify-content: space-evenly;
+
+}
